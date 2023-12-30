@@ -13,9 +13,9 @@
 </div>
 
 ## About me
-I started my interest in the Python programming language in 2022. I quickly realised that I was very interested in it and wanted to connect my future professional career with development.
+I am passionate about development, especially in the field of Python. My journey to professional development started with my studies at Skypro online school, where I gained fundamental knowledge and gained a lot of practical experience.
 
-I have learnt basic Python and OOP, I know how to work with databases and version control system, and I have tested web applications with unittest and understand what TDD is. I am proficient in Django (including DRF), Git, PostgreSQL, Docker and Bootstrap at the layout level.
+My passion for improvement is reflected in my knowledge and skills including Python, object-oriented programming, working with databases and version control system, TDD, unittest, Django (including DRF), FastAPI, SQLALchemy, Alembic, Pydantic, Git, Postgresql, Docker and Bootstrap at the layout level.
 
 ## Languages and tools
 <div id="icons" align="center">
@@ -27,7 +27,9 @@ I have learnt basic Python and OOP, I know how to work with databases and versio
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytest/pytest-original-wordmark.svg" width=100 height=100//>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" width=100 height=100//>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original-wordmark.svg" width=100 height=100//>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original-wordmark.svg" width=100 height=100//>                          
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original-wordmark.svg" width=100 height=100//>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original-wordmark.svg" width=100 height=100//>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original-wordmark.svg" width=100 height=100//>        
 </div>
 
 ## My stats
