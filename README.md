@@ -5,7 +5,7 @@
 <h3 align="center">Python developer</h3>
 
 <div id="badges" align="center">
-  <a href="@Ulia_Sem">
+  <a href="[@Ulia_Sem](https://t.me/Ulia_Sem)">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
   <a href="@ulyana.semyonova">
