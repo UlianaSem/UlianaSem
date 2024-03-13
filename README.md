@@ -13,7 +13,7 @@
 </div>
 
 ## About me
-I am passionate about development, especially in the field of Python. My journey to professional development started with my studies at Skypro online school, where I gained fundamental knowledge and gained a lot of practical experience.
+I am a practicing Python developer and have a lot of practical experience, which includes successful implementation of such projects as: healthy habits tracker, mailing list management service, and job parser, which you can get acquainted with here.
 
 My passion for improvement is reflected in my knowledge and skills including Python, object-oriented programming, working with databases and version control system, TDD, unittest, Django (including DRF), FastAPI, SQLALchemy, Alembic, Pydantic, Git, Postgresql, Docker and Bootstrap at the layout level.
 
